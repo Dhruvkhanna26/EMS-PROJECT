@@ -21,7 +21,7 @@ The Employee Management System is a simple application developed using Tkinter a
 
 1. Clone the repository:
 
-   ```bash
+  
    [git clone](https://github.com/Dhruvkhanna26/EMS-PROJECT)
    
 
